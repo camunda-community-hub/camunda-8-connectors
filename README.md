@@ -17,6 +17,7 @@ A curated list of awesome [Camunda Platform 8 Connectors](https://docs.camunda.i
 * [Out-of-the-box Connectors](#out-of-the-box-connectors)
 * [Partner Connectors](#partner-connectors)
 * [Community Connectors](#community-connectors)
+* [Related projects](#related-projects)
 * [Resources](#resources)
 
 # Out-of-the-box Connectors
@@ -37,6 +38,12 @@ Connector runtimes provided by Camunda partners:
 # Community Connectors
 
 Connector runtimes provided by the Community:
+
+# Related projects
+
+Projects related to Camunda 8 Connectors that are not Connectors themselves.
+
+* [OpenAPI Connector Template Generator for REST Connector Runtime](https://github.com/christian-konrad/openapi-connector-template-generator)
 
 # Resources
 
