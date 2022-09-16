@@ -11,6 +11,7 @@
 </div>
 
 A curated list of awesome [Camunda Platform 8 Connectors](https://docs.camunda.io/docs/components/integration-framework/introduction-to-connectors/) projects, driven by the community, partners, and Camundos.
+We are excited to empower our ecosystem to build connectivity, accelerating process orchestration with any system!
 
 ## Contents
 
@@ -24,16 +25,21 @@ A curated list of awesome [Camunda Platform 8 Connectors](https://docs.camunda.i
 
 Connector runtimes provided by [Camunda out-of-the-box](https://docs.camunda.io/docs/components/integration-framework/connectors/out-of-the-box-connectors/available-connectors-overview/) in C8 SaaS and Self-Managed:
 
-* AWS Lambda
-* AWS Simple Queue Service
-* Google Drive
-* REST
-* Sendgrid
-* Slack
+* Amazon SQS 
+* AWS Lambda 
+* Google Drive 
+* REST 
+* SendGrid 
+* Slack 
 
 # Partner Connectors
 
 Connector runtimes provided by Camunda partners:
+
+* Git 
+* Jira 
+* MySQL 
+* Email 
 
 # Community Connectors
 
