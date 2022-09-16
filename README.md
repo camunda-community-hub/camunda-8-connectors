@@ -24,6 +24,7 @@ We are excited to empower our ecosystem to build connectivity, accelerating proc
 # Out-of-the-box Connectors
 
 Connector runtimes provided by [Camunda out-of-the-box](https://docs.camunda.io/docs/components/integration-framework/connectors/out-of-the-box-connectors/available-connectors-overview/) in C8 SaaS and Self-Managed:
+Coming Soon!
 
 * Amazon SQS 
 * AWS Lambda 
@@ -35,6 +36,7 @@ Connector runtimes provided by [Camunda out-of-the-box](https://docs.camunda.io/
 # Partner Connectors
 
 Connector runtimes provided by Camunda partners:
+Coming Soon!
 
 * Git 
 * Jira 
