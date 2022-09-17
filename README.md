@@ -25,21 +25,23 @@ We are excited to empower our ecosystem to build connectivity, accelerating proc
 
 Connector runtimes provided by [Camunda out-of-the-box](https://docs.camunda.io/docs/components/integration-framework/connectors/out-of-the-box-connectors/available-connectors-overview/) in C8 SaaS and Self-Managed:
 
-* Amazon SQS 
-* AWS Lambda 
-* Google Drive 
-* REST 
-* SendGrid 
-* Slack 
+
+* Amazon SQS (*coming soon!*)
+* AWS Lambda (*coming soon!*)
+* Google Drive (*coming soon!*)
+* [REST](https://docs.camunda.io/docs/components/integration-framework/connectors/out-of-the-box-connectors/rest/)
+* [SendGrid](https://docs.camunda.io/docs/components/integration-framework/connectors/out-of-the-box-connectors/sendgrid/)
+* [Slack](https://docs.camunda.io/docs/components/integration-framework/connectors/out-of-the-box-connectors/slack/)
 
 # Partner Connectors
 
 Connector runtimes provided by Camunda partners:
+Coming Soon!
 
-* Git 
-* Jira 
-* MySQL 
-* Email 
+* Git (*coming soon!*)
+* Jira (*coming soon!*) 
+* MySQL (*coming soon!*)
+* Email (*coming soon!*)
 
 # Community Connectors
 
