@@ -51,7 +51,7 @@ Connector runtimes provided by the Community:
 
 Projects related to Camunda 8 Connectors that are not Connectors themselves.
 
-* [OpenAPI Connector Template Generator for REST Connector Runtime](https://github.com/christian-konrad/openapi-connector-template-generator)
+* [OpenAPI Connector Template Generator for REST Connector Runtime](https://github.com/camunda-community-hub/openapi-connector-template-generator)
 
 # Resources
 
