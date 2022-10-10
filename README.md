@@ -29,9 +29,9 @@ Connector runtimes provided by [Camunda out-of-the-box](https://docs.camunda.io/
 * [Amazon SQS](https://github.com/camunda/connector-sqs)
 * [AWS Lambda](https://github.com/camunda/connector-aws-lambda)
 * [Google Drive](https://github.com/camunda/connector-google-drive)
-* [REST](https://docs.camunda.io/docs/components/integration-framework/connectors/out-of-the-box-connectors/rest/)
-* [SendGrid](https://docs.camunda.io/docs/components/integration-framework/connectors/out-of-the-box-connectors/sendgrid/)
-* [Slack](https://docs.camunda.io/docs/components/integration-framework/connectors/out-of-the-box-connectors/slack/)
+* [REST](https://github.com/camunda/connector-http-json)
+* [SendGrid](https://github.com/camunda/connector-sendgrid)
+* [Slack](https://github.com/camunda/connector-slack)
 
 # Partner Connectors
 
