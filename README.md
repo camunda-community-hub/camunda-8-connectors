@@ -10,7 +10,7 @@
 <hr />
 </div>
 
-A curated list of awesome [Camunda Platform 8 Connectors](https://docs.camunda.io/docs/components/integration-framework/introduction-to-connectors/) projects, driven by the community, partners, and Camundos.
+A curated list of awesome [Camunda Platform 8 Connectors](https://docs.camunda.io/docs/components/integration-framework/introduction-to-connectors/) projects, driven by the Community, Partners, and Camunda.
 We are excited to empower our ecosystem to build connectivity, accelerating process orchestration with any system!
 
 ## Contents
