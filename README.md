@@ -1,7 +1,7 @@
 <div align="center">
 <h1>Awesome Camunda Platform 8 Connectors</h1>
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Contribute](https://img.shields.io/badge/contribute-project-blue.svg)](https://github.com/camunda-community-hub/camunda-8-connectors/pulls) [![](https://img.shields.io/badge/Community%20Extension-An%20open%20source%20community%20maintained%20project-FF4700)](https://github.com/camunda-community-hub/community) [![](https://img.shields.io/badge/Compatible%20with-Camunda%20Platform%208-0072Ce)](https://docs.camunda.io/)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Contribute](https://img.shields.io/badge/contribute-project-blue.svg)](https://github.com/camunda-community-hub/camunda-8-connectors/pulls) [![](https://img.shields.io/badge/Compatible%20with-Camunda%20Platform%208-0072Ce)](https://docs.camunda.io/)
   
 <hr />
 <a href="https://docs.camunda.io/docs/components/integration-framework/introduction-to-connectors/">Camunda Platform 8 Connectors</a>&nbsp;&nbsp;&nbsp;
