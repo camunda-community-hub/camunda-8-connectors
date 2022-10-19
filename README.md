@@ -25,34 +25,34 @@ We are excited to empower our ecosystem to build connectivity, accelerating proc
 
 Connector runtimes provided by [Camunda out-of-the-box](https://docs.camunda.io/docs/components/integration-framework/connectors/out-of-the-box-connectors/available-connectors-overview/) in C8 SaaS and Self-Managed:
 
-| Connector    | JAR with dependencies                                                                          | Code repository                                             | Documentation                                                                                                                              | License                                      |
-| ------------ | ---------------------------------------------------------------------------------------------- | ----------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------- |
-| Amazon SQS   | [Maven Central](https://search.maven.org/artifact/io.camunda.connector/connector-sqs)          | [GitHub](https://github.com/camunda/connector-sqs)          | [Camunda Platform 8 Docs](https://docs.camunda.io/docs/components/integration-framework/connectors/out-of-the-box-connectors/aws-sqs/)     | [Camunda Platform Self-Managed Free Edition] |
-| AWS Lambda   | [Maven Central](https://search.maven.org/artifact/io.camunda.connector/connector-aws-lambda)   | [GitHub](https://github.com/camunda/connector-aws-lambda)   | [Camunda Platform 8 Docs](https://docs.camunda.io/docs/components/integration-framework/connectors/out-of-the-box-connectors/aws-lambda/)  | [Camunda Platform Self-Managed Free Edition] |
-| Google Drive | [Maven Central](https://search.maven.org/artifact/io.camunda.connector/connector-google-drive) | [GitHub](https://github.com/camunda/connector-google-drive) | [Camunda Platform 8 Docs](https://docs.camunda.io/docs/components/integration-framework/connectors/out-of-the-box-connectors/googledrive/) | [Camunda Platform Self-Managed Free Edition] |
-| REST         | [Maven Central](https://search.maven.org/artifact/io.camunda.connector/connector-http-json)    | [GitHub](https://github.com/camunda/connector-http-json)    | [Camunda Platform 8 Docs](https://docs.camunda.io/docs/components/integration-framework/connectors/out-of-the-box-connectors/rest/)        | [Apache 2.0]                                 |
-| SendGrid     | [Maven Central](https://search.maven.org/artifact/io.camunda.connector/connector-sendgrid)     | [GitHub](https://github.com/camunda/connector-sendgrid)     | [Camunda Platform 8 Docs](https://docs.camunda.io/docs/components/integration-framework/connectors/out-of-the-box-connectors/sendgrid/)    | [Camunda Platform Self-Managed Free Edition] |
-| Slack        | [Maven Central](https://search.maven.org/artifact/io.camunda.connector/connector-slack)        | [GitHub](https://github.com/camunda/connector-slack)        | [Camunda Platform 8 Docs](https://docs.camunda.io/docs/components/integration-framework/connectors/out-of-the-box-connectors/slack/)       | [Camunda Platform Self-Managed Free Edition] |
+| Connector    | JAR with dependencies                                                                          | Code repository                                             | Documentation                                                                                                                              | License                                      | Lifecycle |
+| ------------ | ---------------------------------------------------------------------------------------------- | ----------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------- | ---------- |
+| Amazon SQS   | [Maven Central](https://search.maven.org/artifact/io.camunda.connector/connector-sqs)          | [GitHub](https://github.com/camunda/connector-sqs)          | [Camunda Platform 8 Docs](https://docs.camunda.io/docs/components/integration-framework/connectors/out-of-the-box-connectors/aws-sqs/)     | [Camunda Platform Self-Managed Free Edition] | [![](https://img.shields.io/badge/Lifecycle-Stable-brightgreen)](https://github.com/Camunda-Community-Hub/community/blob/main/extension-lifecycle.md#stable-) |
+| AWS Lambda   | [Maven Central](https://search.maven.org/artifact/io.camunda.connector/connector-aws-lambda)   | [GitHub](https://github.com/camunda/connector-aws-lambda)   | [Camunda Platform 8 Docs](https://docs.camunda.io/docs/components/integration-framework/connectors/out-of-the-box-connectors/aws-lambda/)  | [Camunda Platform Self-Managed Free Edition] | [![](https://img.shields.io/badge/Lifecycle-Stable-brightgreen)](https://github.com/Camunda-Community-Hub/community/blob/main/extension-lifecycle.md#stable-) |
+| Google Drive | [Maven Central](https://search.maven.org/artifact/io.camunda.connector/connector-google-drive) | [GitHub](https://github.com/camunda/connector-google-drive) | [Camunda Platform 8 Docs](https://docs.camunda.io/docs/components/integration-framework/connectors/out-of-the-box-connectors/googledrive/) | [Camunda Platform Self-Managed Free Edition] | [![](https://img.shields.io/badge/Lifecycle-Stable-brightgreen)](https://github.com/Camunda-Community-Hub/community/blob/main/extension-lifecycle.md#stable-) |
+| REST         | [Maven Central](https://search.maven.org/artifact/io.camunda.connector/connector-http-json)    | [GitHub](https://github.com/camunda/connector-http-json)    | [Camunda Platform 8 Docs](https://docs.camunda.io/docs/components/integration-framework/connectors/out-of-the-box-connectors/rest/)        | [Apache 2.0]                                 | [![](https://img.shields.io/badge/Lifecycle-Stable-brightgreen)](https://github.com/Camunda-Community-Hub/community/blob/main/extension-lifecycle.md#stable-) |
+| SendGrid     | [Maven Central](https://search.maven.org/artifact/io.camunda.connector/connector-sendgrid)     | [GitHub](https://github.com/camunda/connector-sendgrid)     | [Camunda Platform 8 Docs](https://docs.camunda.io/docs/components/integration-framework/connectors/out-of-the-box-connectors/sendgrid/)    | [Camunda Platform Self-Managed Free Edition] | [![](https://img.shields.io/badge/Lifecycle-Stable-brightgreen)](https://github.com/Camunda-Community-Hub/community/blob/main/extension-lifecycle.md#stable-) |
+| Slack        | [Maven Central](https://search.maven.org/artifact/io.camunda.connector/connector-slack)        | [GitHub](https://github.com/camunda/connector-slack)        | [Camunda Platform 8 Docs](https://docs.camunda.io/docs/components/integration-framework/connectors/out-of-the-box-connectors/slack/)       | [Camunda Platform Self-Managed Free Edition] | [![](https://img.shields.io/badge/Lifecycle-Stable-brightgreen)](https://github.com/Camunda-Community-Hub/community/blob/main/extension-lifecycle.md#stable-) |
 
 # Partner Connectors
 
 Connector runtimes provided by Camunda partners:
 Coming Soon!
 
-| Connector              | JAR with dependencies | Code repository | Documentation | License |
-| ---------------------- | --------------------- | --------------- | ------------- | ------- |
-| Git (*coming soon!*)   |                       |                 |               |         |
-| JIRA (*coming soon!*)  |                       |                 |               |         |
-| MySQL (*coming soon!*) |                       |                 |               |         |
-| Email (*coming soon!*) |                       |                 |               |         |
+| Connector              | JAR with dependencies | Code repository | Documentation | License | Lifecycle |
+| ---------------------- | --------------------- | --------------- | ------------- | ------- | --------- |
+| Git (*coming soon!*)   |                       |                 |               |         |           |
+| JIRA (*coming soon!*)  |                       |                 |               |         |           |
+| MySQL (*coming soon!*) |                       |                 |               |         |           |
+| Email (*coming soon!*) |                       |                 |               |         |           |
 
 # Community Connectors
 
 Connector runtimes provided by the Community:
 
-| Connector  | JAR with dependencies | Code repository | Documentation | License |
-| ---------- | --------------------- | --------------- | ------------- | ------- |
-|            |                       |                 |               |         |
+| Connector  | JAR with dependencies | Code repository | Documentation | License | Lifecycle |
+| ---------- | --------------------- | --------------- | ------------- | ------- | --------- |
+|            |                       |                 |               |         |           |
 
 # Related projects
 
