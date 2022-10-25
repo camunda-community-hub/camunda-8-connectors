@@ -59,6 +59,8 @@ Connector runtimes provided by the Community:
 Projects related to Camunda 8 Connectors that are not Connectors themselves.
 
 * [OpenAPI Connector Template Generator for REST Connector Runtime](https://github.com/camunda-community-hub/openapi-connector-template-generator)
+* [Node.js Connector SDK](https://github.com/camunda-community-hub/connector-sdk-nodejs) - write Connectors in JavaScript / TypeScript for execution in Node.js.
+
 
 # Resources
 
