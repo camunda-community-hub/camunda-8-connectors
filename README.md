@@ -52,7 +52,7 @@ Connector runtimes provided by the Community:
 
 | Connector  | JAR with dependencies | Code repository | Documentation | License | Lifecycle |
 | ---------- | --------------------- | --------------- | ------------- | ------- | --------- |
-|  Openweather API          |            -           |      [GitHub](https://github.com/camunda-community-hub/camunda-8-connector-openweather-api/)           |   [README](https://github.com/camunda-community-hub/camunda-8-connector-openweather-api/blob/main/README.md)            |   Apache 2.0      |         [![](https://camo.githubusercontent.com/2d563fb11bc0550dc123d8bde6e10271e03d0394da3710a8caf5e127fca35e2c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6966656379636c652d50726f6f662532306f66253230436f6e636570742d626c756576696f6c6574)]  |
+|  Openweather API          |            -           |      [GitHub](https://github.com/camunda-community-hub/camunda-8-connector-openweather-api/)           |   [README](https://github.com/camunda-community-hub/camunda-8-connector-openweather-api/blob/main/README.md)            |   Apache 2.0      |         [![](https://img.shields.io/badge/Lifecycle-Proof%20of%20Concept-blueviolet)](https://github.com/Camunda-Community-Hub/community/blob/main/extension-lifecycle.md#proof-of-concept-)  |
 
 # Related projects
 
