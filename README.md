@@ -39,12 +39,12 @@ Connector runtimes provided by [Camunda out-of-the-box](https://docs.camunda.io/
 Connector runtimes provided by Camunda partners:
 Coming Soon!
 
-| Connector              | JAR with dependencies | Code repository | Documentation | License | Lifecycle |
-| ---------------------- | --------------------- | --------------- | ------------- | ------- | --------- |
-| Git (*coming soon!*)   |                       |                 |               |         |           |
-| JIRA (*coming soon!*)  |                       |                 |               |         |           |
-| MySQL (*coming soon!*) |                       |                 |               |         |           |
-| Email (*coming soon!*) |                       |                 |               |         |           |
+| Connector              | Partner | JAR with dependencies | Code repository | Documentation | License | Lifecycle |
+| ---------------------- | ------- | --------------------- | --------------- | ------------- | ------- | --------- |
+| Git (*coming soon!*)   |         |                       |                 |               |         |           |
+| JIRA (*coming soon!*)  |         |                       |                 |               |         |           |
+| MySQL (*coming soon!*) |         |                       |                 |               |         |           |
+| Email (*coming soon!*) |         |                       |                 |               |         |           |
 
 # Community Connectors
 
