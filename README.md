@@ -54,11 +54,22 @@ Connector runtimes provided by the Community:
 |--------------------------|---------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------| ------- | --------- |
 | SendBPMNMessage          | [Community] (https://github.com/camunda-community-hub/camunda-8-connector-sendBPMNmessage) | [github](https://github.com/camunda-community-hub/camunda-8-connector-sendBPMNmessage) | [ReadMe](https://github.com/camunda-community-hub/camunda-8-connector-sendBPMNmessage/blob/main/README.md) |     [Apache 2.0]     |    [![](https://img.shields.io/badge/Lifecycle-Stable-brightgreen)](https://github.com/Camunda-Community-Hub/community/blob/main/extension-lifecycle.md#stable-)|
 
+| Connector  | JAR with dependencies | Code repository | Documentation | License | Lifecycle |
+| ---------- | --------------------- | --------------- | ------------- | ------- | --------- |
+|  Openweather API          |            -           |      [GitHub](https://github.com/camunda-community-hub/camunda-8-connector-openweather-api/)           |   [README](https://github.com/camunda-community-hub/camunda-8-connector-openweather-api/blob/main/README.md)            |   Apache 2.0      |         [![](https://img.shields.io/badge/Lifecycle-Proof%20of%20Concept-blueviolet)](https://github.com/Camunda-Community-Hub/community/blob/main/extension-lifecycle.md#proof-of-concept-)  |
+| Office (Word, OpenOffice) | [Community](https://github.com/camunda-community-hub/zeebe-cherry-officepdf-workers) | [github](https://github.com/camunda-community-hub/zeebe-cherry-officepdf-workers) | [ReadMe](https://github.com/camunda-community-hub/zeebe-cherry-officepdf-workers/blob/main/README.md) |     [Apache 2.0]     |    [![](https://img.shields.io/badge/Lifecycle-Stable-brightgreen)](https://github.com/Camunda-Community-Hub/community/blob/main/extension-lifecycle.md#stable-)|
+| PDF                       | [Community](https://github.com/camunda-community-hub/zeebe-cherry-officepdf-workers) | [github](https://github.com/camunda-community-hub/zeebe-cherry-officepdf-workers) | [ReadMe](https://github.com/camunda-community-hub/zeebe-cherry-officepdf-workers/blob/main/README.md) |     [Apache 2.0]     |    [![](https://img.shields.io/badge/Lifecycle-Stable-brightgreen)](https://github.com/Camunda-Community-Hub/community/blob/main/extension-lifecycle.md#stable-)|
+| BPMN Operation (message)  | [Community](https://github.com/camunda-community-hub/zeebe-cherry-bpmn-operations) | [github](https://github.com/camunda-community-hub/zeebe-cherry-officepdf-workers) | [ReadMe](https://github.com/camunda-community-hub/zeebe-cherry-bpmn-operations/blob/main/README.md) |     [Apache 2.0]     |    [![](https://img.shields.io/badge/Lifecycle-Stable-brightgreen)](https://github.com/Camunda-Community-Hub/community/blob/main/extension-lifecycle.md#stable-)|
+| CMIS (*Comming soon!*) |                                                                                       |                                                                                   |                                                                                                       |         |           |
+
+
 # Related projects
 
 Projects related to Camunda 8 Connectors that are not Connectors themselves.
 
 * [OpenAPI Connector Template Generator for REST Connector Runtime](https://github.com/camunda-community-hub/openapi-connector-template-generator)
+* [Node.js Connector SDK](https://github.com/camunda-community-hub/connector-sdk-nodejs) - write Connectors in JavaScript / TypeScript for execution in Node.js.
+
 
 # Resources
 
