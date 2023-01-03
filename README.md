@@ -54,10 +54,12 @@ Coming Soon!
 
 Connector runtimes provided by the Community:
 
-| Connector                  | JAR with dependencies | Code repository                                                                         | Documentation                                                                                              | License | Lifecycle                                                                                                                                                                            |
-|----------------------------| --------------------- |-----------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------| ------- |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Openweather API            |            -           | [GitHub](https://github.com/camunda-community-hub/camunda-8-connector-openweather-api/) | [README](https://github.com/camunda-community-hub/camunda-8-connector-openweather-api/blob/main/README.md) |   Apache 2.0      | [![](https://img.shields.io/badge/Lifecycle-Proof%20of%20Concept-blueviolet)](https://github.com/Camunda-Community-Hub/community/blob/main/extension-lifecycle.md#proof-of-concept-) |
+| Connector  | JAR with dependencies | Code repository | Documentation | License | Lifecycle |
+| ---------- | --------------------- | --------------- | ------------- | ------- | --------- |
+|  Openweather API          |            -           |      [GitHub](https://github.com/camunda-community-hub/camunda-8-connector-openweather-api/)           |   [README](https://github.com/camunda-community-hub/camunda-8-connector-openweather-api/blob/main/README.md)            |   Apache 2.0      |         [![](https://img.shields.io/badge/Lifecycle-Proof%20of%20Concept-blueviolet)](https://github.com/Camunda-Community-Hub/community/blob/main/extension-lifecycle.md#proof-of-concept-)  |
+|  GitHub Dispatch          |            -           |      [GitHub](https://github.com/camunda-community-hub/camunda-8-connector-github-dispatch)           |   [README](https://github.com/camunda-community-hub/camunda-8-connector-github-dispatch/blob/main/README.md)            |   Apache 2.0      |         [![](https://img.shields.io/badge/Lifecycle-Proof%20of%20Concept-blueviolet)](https://github.com/Camunda-Community-Hub/community/blob/main/extension-lifecycle.md#proof-of-concept-)  |
 | PDF merge/extract/watermark|            -           | [GitHub](https://github.com/camunda-community-hub/camunda-8-connector-pdf/)             | [README](https://github.com/camunda-community-hub/camunda-8-connector-pdf/blob/main/README.md)             |   Apache 2.0      | [![](https://img.shields.io/badge/Lifecycle-Incubating-blue)](https://github.com/Camunda-Community-Hub/community/blob/main/extension-lifecycle.md#incubating-)                       |
+
 
 # Related projects
 
