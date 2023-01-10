@@ -18,6 +18,7 @@ We are excited to empower our ecosystem to build connectivity, accelerating proc
 * [Out-of-the-box Connectors](#out-of-the-box-connectors)
 * [Partner Connectors](#partner-connectors)
 * [Community Connectors](#community-connectors)
+* [Adding connectors](#adding-connectors)
 * [Related projects](#related-projects)
 * [Resources](#resources)
 
@@ -59,6 +60,20 @@ Connector runtimes provided by the Community:
 |  Openweather API          |            -           |      [GitHub](https://github.com/camunda-community-hub/camunda-8-connector-openweather-api/)           |   [README](https://github.com/camunda-community-hub/camunda-8-connector-openweather-api/blob/main/README.md)            |   Apache 2.0      |         [![](https://img.shields.io/badge/Lifecycle-Proof%20of%20Concept-blueviolet)](https://github.com/Camunda-Community-Hub/community/blob/main/extension-lifecycle.md#proof-of-concept-)  |
 |  GitHub Dispatch          |            -           |      [GitHub](https://github.com/camunda-community-hub/camunda-8-connector-github-dispatch)           |   [README](https://github.com/camunda-community-hub/camunda-8-connector-github-dispatch/blob/main/README.md)            |   Apache 2.0      |         [![](https://img.shields.io/badge/Lifecycle-Proof%20of%20Concept-blueviolet)](https://github.com/Camunda-Community-Hub/community/blob/main/extension-lifecycle.md#proof-of-concept-)  |
 | OpenAI Moderation | - | [GitHub](https://github.com/MaxTru/camunda-connector-openai-moderation) | [README](https://github.com/MaxTru/camunda-connector-openai-moderation/blob/main/README.md) | MIT       |         [![](https://img.shields.io/badge/Lifecycle-Proof%20of%20Concept-blueviolet)](https://github.com/Camunda-Community-Hub/community/blob/main/extension-lifecycle.md#proof-of-concept-)  |
+
+# Adding connectors
+
+You are able to add your connector in just a few steps:
+- Be inspired with a brilliant idea!
+- [Implement it](https://docs.camunda.io/docs/components/connectors/custom-built-connectors/connector-sdk/#creating-a-custom-connector).
+- Test it with a [Self-Managed Camunda Platform](https://docs.camunda.io/docs/self-managed/about-self-managed/) instance.
+- Publish it at GitHub.
+- Add supporting documentation:
+- - `README.md` with general info about your connector, how to use it, and how to contribute. Screenshots, videos or other visual materials encouraged. Additional links, references, and contact details are welcome.
+- - `LICENSE`with respective license, EULA or terms of use.
+- Ready to move it to the awesome list? Open a transfer ticket (ISSUE TEMPLATE TBD) and we'll take it from there.
+
+Have fun!
 
 # Related projects
 
