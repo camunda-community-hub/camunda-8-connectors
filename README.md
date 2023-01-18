@@ -18,6 +18,7 @@ We are excited to empower our ecosystem to build connectivity, accelerating proc
 * [Out-of-the-box Connectors](#out-of-the-box-connectors)
 * [Partner Connectors](#partner-connectors)
 * [Community Connectors](#community-connectors)
+* [Adding connectors](#adding-connectors)
 * [Related projects](#related-projects)
 * [Resources](#resources)
 
@@ -45,10 +46,10 @@ Coming Soon!
 
 | Connector              | Partner | JAR with dependencies | Code repository | Documentation | License | Lifecycle |
 | ---------------------- | ------- | --------------------- | --------------- | ------------- | ------- | --------- |
-| Git (*coming soon!*)   |         |                       |                 |               |         |           |
-| JIRA (*coming soon!*)  |         |                       |                 |               |         |           |
-| MySQL (*coming soon!*) |         |                       |                 |               |         |           |
-| Email (*coming soon!*) |         |                       |                 |               |         |           |
+| MySQL    | [Infosys](https://github.com/Infosys)         |                       | [Github](https://github.com/Infosys/camunda-connectors/tree/main/connector-mysql) | [Documentation](https://github.com/Infosys/camunda-connectors/blob/main/connector-mysql/MySQL-Connector-Documentation.pdf)              |  [MIT](https://github.com/Infosys/camunda-connectors/blob/main/connector-mysql/LICENSE.txt)       |        [![](https://img.shields.io/badge/Lifecycle-Stable-brightgreen)](https://github.com/Camunda-Community-Hub/community/blob/main/extension-lifecycle.md#stable-)    |
+| Oracle |    [Infosys](https://github.com/Infosys)     |                       |  [Github](https://github.com/Infosys/camunda-connectors/tree/main/connector-oracle)       |   [Documentation](https://github.com/Infosys/camunda-connectors/blob/main/connector-oracle/Oracle-Connector-Documentation.pdf)        |  [MIT](https://github.com/Infosys/camunda-connectors/blob/main/connector-oracle/LICENSE.txt)       |       [![](https://img.shields.io/badge/Lifecycle-Stable-brightgreen)](https://github.com/Camunda-Community-Hub/community/blob/main/extension-lifecycle.md#stable-)     |
+| PostgreSQL |    [Infosys](https://github.com/Infosys)     |                       |   [Github](https://github.com/Infosys/camunda-connectors/tree/main/connector-postgresql)             |      [Documentation](https://github.com/Infosys/camunda-connectors/blob/main/connector-postgresql/PostgreSQL-Connector-Documentation.pdf)         |   [MIT](https://github.com/Infosys/camunda-connectors/blob/main/connector-postgresql/LICENSE.txt)   |      [![](https://img.shields.io/badge/Lifecycle-Stable-brightgreen)](https://github.com/Camunda-Community-Hub/community/blob/main/extension-lifecycle.md#stable-)      |
+|  |         |                       |                 |               |         |           |
 
 # Community Connectors
 
@@ -61,6 +62,22 @@ Connector runtimes provided by the Community:
 | OpenAI Moderation | - | [GitHub](https://github.com/MaxTru/camunda-connector-openai-moderation) | [README](https://github.com/MaxTru/camunda-connector-openai-moderation/blob/main/README.md) | MIT       |         [![](https://img.shields.io/badge/Lifecycle-Proof%20of%20Concept-blueviolet)](https://github.com/Camunda-Community-Hub/community/blob/main/extension-lifecycle.md#proof-of-concept-)  |
 | PDF merge/extract/watermark|            -           | [GitHub](https://github.com/camunda-community-hub/camunda-8-connector-pdf/)             | [README](https://github.com/camunda-community-hub/camunda-8-connector-pdf/blob/main/README.md)             |   Apache 2.0      | [![](https://img.shields.io/badge/Lifecycle-Incubating-blue)](https://github.com/Camunda-Community-Hub/community/blob/main/extension-lifecycle.md#incubating-)                       |
 | OfficeToPdf               |            -           |      [GitHub](https://github.com/camunda-community-hub/camunda-8-connector-officetopdf)               | [README](https://github.com/camunda-community-hub/camunda-8-connector-officetopdf/blob/main/README.md)                  |   Apache 2.0      |         [![](https://img.shields.io/badge/Lifecycle-Incubating-blue)](https://github.com/Camunda-Community-Hub/community/blob/main/extension-lifecycle.md#incubating-) |
+
+# Adding connectors
+
+You are able to add your connector in just a few steps:
+- Be inspired by a brilliant idea!
+- [Implement it](https://docs.camunda.io/docs/components/connectors/custom-built-connectors/connector-sdk/#creating-a-custom-connector).
+- Test it with a [Self-Managed Camunda Platform](https://docs.camunda.io/docs/self-managed/about-self-managed/) instance.
+- Publish it at GitHub.
+- Add supporting documentation:
+- - `README.md` with general info about your connector, how to use it, and how to contribute. Screenshots, videos or other visual materials encouraged. Additional links, references, and contact details are welcome.
+- - `LICENSE`with respective license, EULA or terms of use.
+- Ready to move it to the awesome list? Open [a ticket](https://github.com/camunda-community-hub/camunda-8-connectors/issues/new?assignees=&labels=&template=ADD_NEW_CONNECTOR_TO_THE_AWESOME_LIST.md), and we'll take it from there.
+
+Just having an idea? Cut us a [feature request issue](https://github.com/camunda/connectors-bundle/issues/new?assignees=&labels=kind%3Aenhancement&template=FEATURE_REQUEST.md), and we or community may take care of it.
+
+Have fun!
 
 # Related projects
 
