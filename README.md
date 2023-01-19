@@ -42,7 +42,6 @@ Connector runtimes provided by [Camunda out-of-the-box](https://docs.camunda.io/
 # Partner Connectors
 
 Connector runtimes provided by Camunda partners:
-Coming Soon!
 
 | Connector              | Partner | JAR with dependencies | Code repository | Documentation | License | Lifecycle |
 | ---------------------- | ------- | --------------------- | --------------- | ------------- | ------- | --------- |
