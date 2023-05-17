@@ -113,6 +113,7 @@ Projects related to Camunda 8 Connectors that are not Connectors themselves.
 
 * [OpenAPI Connector Template Generator for REST Connector Runtime](https://github.com/camunda-community-hub/openapi-connector-template-generator)
 * [Node.js Connector SDK](https://github.com/camunda-community-hub/connector-sdk-nodejs) - write Connectors in JavaScript / TypeScript for execution in Node.js.
+* [Template Generator for Camunda Connectors](https://github.com/brix-ag/camunda-connector-utils) - generates template JSON from the annotated request class and provides utilities for multi values
 
 
 # Resources
