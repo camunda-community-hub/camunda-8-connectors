@@ -151,8 +151,9 @@ Projects related to Camunda 8 Connectors that are not Connectors themselves.
 Additional resources related to Camunda 8 Connectors:
 
 * [Official Connector Documentation](https://docs.camunda.io/docs/components/integration-framework/introduction-to-connectors/)
-* [Connector SDK](https://github.com/camunda/connector-sdk) and [its documentation](https://docs.camunda.io/docs/components/integration-framework/connectors/custom-built-connectors/connector-sdk/)
-* [Connector Template](https://github.com/camunda/connector-template)
+* [Connector SDK](https://github.com/camunda/connectors/tree/main/connector-sdk) and [its documentation](https://docs.camunda.io/docs/components/integration-framework/connectors/custom-built-connectors/connector-sdk/)
+* [Outbound Connector Template](https://github.com/camunda/connector-template-outbound)
+* [Inbound Connector Template](https://github.com/camunda/connector-template-inbound)
 
 [apache 2.0]: https://www.apache.org/licenses/LICENSE-2.0
 [camunda platform self-managed free edition]: https://camunda.com/legal/terms/cloud-terms-and-conditions/camunda-cloud-self-managed-free-edition-terms/
