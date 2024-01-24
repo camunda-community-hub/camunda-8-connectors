@@ -14,7 +14,7 @@ Welcome to the Camunda 8 Connectors GitHub repository!
 
 # 🌐 Camunda Marketplace
 
-Explore the extensive range of connectors available in the [Camunda Connectors Marketplace](https://marketplace.camunda.com/en-US/home). The marketplace is a comprehensive hub for connectors developed by Camunda, our partners, and the vibrant community.
+Explore the extensive range of Connectors available in the [Camunda Connectors Marketplace](https://marketplace.camunda.com/en-US/home). The marketplace is a comprehensive hub for connectors developed by Camunda, our partners, and the vibrant community.
 
 ### Explore the Marketplace for:
 
