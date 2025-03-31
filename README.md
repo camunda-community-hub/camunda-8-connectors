@@ -33,7 +33,7 @@ Created a connector that you think could benefit the wider community? Get it lis
 Have an idea for a new connector, or curious about what others are working on? Head over to our [Connector Ideas Portal](https://marketplace.camunda.com/en-US/pages/connectorsIdeaPortal). It’s a great space to share your innovative concepts or to contribute to ongoing projects.
 # 📚 Documentation
 
-For comprehensive information about using and developing connectors, please refer to our [official documentation](#).
+For comprehensive information about using and developing connectors, please refer to our [official documentation](https://docs.camunda.io/docs/components/connectors/introduction-to-connectors/).
 
 # 🛠 Helpful Tools for Working with Connectors
 
@@ -41,15 +41,12 @@ While the Camunda Connectors Marketplace offers a wide range of connectors, ther
 
 ## Some of these helpful tools include:
 
-* [OpenAPI Connector Template Generator for REST Connector Runtime](https://github.com/camunda-community-hub/openapi-connector-template-generator)
 * [Node.js Connector SDK](https://github.com/camunda-community-hub/connector-sdk-nodejs) - write Connectors in JavaScript / TypeScript for execution in Node.js.
-* [Template Generator for Camunda Connectors](https://github.com/brix-ag/camunda-connector-utils) - generates template JSON from the annotated request class and provides utilities for multi values
 * [Connector runtime Grafana dashboard](https://github.com/camunda-community-hub/connectors-grafana-dashboard) - a metrics dashboard for the Connector runtime
 
 # 📬 Questions & Support
 
 For general queries or support, our [community forum](https://forum.camunda.io/) is the best place to reach out.
-
 
 # 🤝 Contributing to Connectors
 
@@ -71,7 +68,7 @@ By getting involved, you're not only enhancing a specific connector but also con
 Additional resources related to Camunda 8 Connectors:
 
 * [Official Connector Documentation](https://docs.camunda.io/docs/components/integration-framework/introduction-to-connectors/)
-* [Connector SDK](https://github.com/camunda/connectors/tree/main/connector-sdk) and [its documentation](https://docs.camunda.io/docs/components/integration-framework/connectors/custom-built-connectors/connector-sdk/)
+* [Connector SDK](https://github.com/camunda/connectors/tree/main/connector-sdk) and [its documentation](https://docs.camunda.io/docs/components/connectors/custom-built-connectors/connector-sdk/)
 * [Outbound Connector Template](https://github.com/camunda/connector-template-outbound)
 * [Inbound Connector Template](https://github.com/camunda/connector-template-inbound)
 
